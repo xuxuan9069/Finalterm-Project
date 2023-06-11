@@ -1,0 +1,26 @@
+#mycanvas{
+	border : 2px solid black;
+	background-image : url(table.png);
+}
+#black{
+	border : 2px black;
+	border-style : double;
+}
+#red{
+	border : 2px red;
+	border-style : double;
+}
+input{
+	background-color : white;
+	color : black;
+	border : 2px solid green;
+	border-radius : 15px;
+	width : 100px;
+	height : 40px;
+	font-size : 20px;
+	font-family : DFKai-sb;
+}
+input:hover{
+	background-color : green;
+	color : white;
+}
